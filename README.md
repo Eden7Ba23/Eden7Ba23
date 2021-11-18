@@ -1,30 +1,54 @@
-### 欢迎，并感谢你来到我的个人页面！(｀・ω・´)
+<div align="center">
+  
+**Here should have an picture with "About EdenJohnson" in the style of my handwriting , but my scanner stop working :(**
+  
+---
 
-做个个人介绍 :b
+d2FudCB0byBidWlsZA
 
-- 🔭 着力方向：[ArchLinux安装脚本](https://github.com/EdenJohnson2006/ArchLinux-Install-Script)
+InRoZSBOZXh0IEdlbiBvZiB0aGUgTmV3IFdvcmxkIg
 
-- 🌱 正在学习：Python，JS
+KipDYW4gWW91IEhlYXIgTWU/Kio
+  
+---
+  
+<div align="center">
+  
+Hello , **EdenJohnson**'s Here. Below are something **about me**.
 
-- 🤔 寻求帮助：[我不会写.sh（悲）](https://github.com/EdenJohnson2006/ArchLinux-Install-Script)
-
-- 💬 可问问题：ArchLinux的简单问题（指能提取Log的问题）
-
-- 📫 联系方式：[个人邮箱](mailto:me@edenjohnson.me)
-
-先写这么多吧（）
-
-<!--
-**EdenJohnson2006/EdenJohnson2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  
+# On Github
+  
+![eden's github stats](https://github-readme-stats.vercel.app/api?username=eden7ba23&show_icons=true)
+  
+# In Life 
+  
+  16 y.o. A Junior High School Student.
+  
+  Live in  Inner Mongolia , P.R.C Mainland.
+  
+  ## Hobbies
+  
+  Radio,Programming,Rhythm Games and etc.
+  
+  ## Devices
+  
+  Phones: Xiaomi 10i
+  
+  PCs: Xiaomi TM1703, Hewlett-Packard HP Z620 Workstation.
+  
+  Radios: RTL-SDR(with Q-Branch Sampling) and Mini-Whip.
+  
+# ~~Flags~~ (nope) Goals
+  
+  - have an articles that postd on public magazines (like TEENS)
+  - code contribution for Open-Source community
+  - A finished project (rip archlinux-install-script)
+  
+# Find Me at
+  - Cytoid: https://cytoid.io/profile/edenjohnson2006
+  - Github: https://github.com/Eden7Ba23
+  - Telegram: https://t.me/eden_7ba23
+  - Twitter: https://twitter.com/Eden_7Ba23
+  - Website: https://edenjohnson.cyou
