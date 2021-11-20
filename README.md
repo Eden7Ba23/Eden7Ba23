@@ -20,11 +20,20 @@ Hello , **EdenJohnson**'s Here. Below are something **about me**.
   
 # On Github
   
-![eden's github stats](https://github-readme-stats.vercel.app/api?username=eden7ba23&show_icons=true)
+  
+<div align="center">
+  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eden7ba23&theme=github">
+  
+<div align="left">
+
+<img src="https://github-readme-stats.vercel.app/api?username=eden7ba23">
+
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Misaka13514&theme=github">
   
 # In Life 
   
-  16 y.o. A Junior High School Student.
+  16 y.o. A Junior High School Student, now in Grade 3.
   
   Live in  Inner Mongolia , P.R.C Mainland.
   
