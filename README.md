@@ -29,7 +29,7 @@ Hello , **EdenJohnson**'s Here. Below are something **about me**.
 
 <img src="https://github-readme-stats.vercel.app/api?username=eden7ba23">
 
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eden7ba23&theme=github" width="30%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eden7ba23&theme=github">
   
 # In Life 
   
