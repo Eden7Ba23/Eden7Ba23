@@ -1,6 +1,6 @@
 <div align="center">
   
-**Here should have an picture with "About EdenJohnson" in the style of my handwriting , but my scanner stop working :(**
+![Banner](https://github.com/Eden7Ba23/Eden7Ba23/raw/main/IMG_20220119_230752%7E2.jpg)
   
 ---
 
@@ -61,3 +61,4 @@ Hello , **EdenJohnson**'s Here. Below are something **about me**.
   - Telegram: https://t.me/eden_7ba23
   - Twitter: https://twitter.com/Eden_7Ba23
   - Website: https://edenjohnson.cyou
+  - DN42: https://explorer.burble.com/?#/aut-num/AS4242423025 / https://blog.edenjohnson.cyou/dn42
