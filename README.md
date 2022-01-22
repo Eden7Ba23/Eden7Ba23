@@ -53,7 +53,7 @@ Hello , **EdenJohnson**'s Here. Below are something **about me**.
   
   - have an articles that postd on public magazines (like TEENS)
   - code contribution for Open-Source community
-  - A finished project (rip archlinux-install-script)
+  - ~~A finished project (rip archlinux-install-script)~~ https://github.com/Eden7Ba23/DN42-Go
   
 # Find Me at
   - Cytoid: https://cytoid.io/profile/edenjohnson2006
