@@ -16,6 +16,9 @@ Hello , **EdenJohnson**'s Here. Below are something **about me**.
   
 # On Github
   
+It shoudd be something here. But i set it to private.
+  
+xD
   
 <div align="center">
   
