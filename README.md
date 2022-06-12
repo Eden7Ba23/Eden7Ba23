@@ -59,6 +59,8 @@ Hello , **EdenJohnson**'s Here. Below are something **about me**.
   - Cytoid: https://cytoid.io/profile/edenjohnson2006
   - Github: https://github.com/Eden7Ba23
   - Telegram: https://t.me/eden_7ba23
-  - Twitter: https://twitter.com/Eden_7Ba23
   - Website: https://edenjohnson.cyou
-  - DN42: https://explorer.burble.com/?#/aut-num/AS4242423025 / https://blog.edenjohnson.cyou/dn42
+  - dn42: https://explorer.burble.com/?#/aut-num/AS4242423025 / https://edenlink.cyou
+  
+<!--So how? nothing. [with the song never sing again.]-->
+<!--Yeah i mean i am just a garbage.-->
