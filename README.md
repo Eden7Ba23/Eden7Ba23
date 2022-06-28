@@ -1,65 +1,14 @@
-<div align="center">
-  
-![Banner](https://github.com/Eden7Ba23/Eden7Ba23/raw/main/IMG_20220119_230752%7E2.jpg)
-  
----
+## Notice
 
-6974206973206E6F7420696D706F7274616E74207468617420776865746865722074686520776F726C64206973207265616C206F72206E6F742E0A62656361757365206576656E206966206974206973206E6F7420747275650A77652068617665206E6F206964656120746F20736F6C766520746869732070726F626C656D2C2072696768743F
-  
----
-  
-<div align="center">
-  
-Hello , **EdenJohnson**'s Here. Below are something **about me**.
+This is a notice. 
 
-<div align="left">
-  
-# On Github
-  
-It shoudd be something here. But i set it to private.
-  
-xD
-  
-<div align="center">
-  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eden7ba23&theme=github">
-  
-<div align="left">
+For some personal reasons, From June 27th 2022, "Eden Johnson" is no longer exists on the Internet.
 
-<img src="https://github-readme-stats.vercel.app/api?username=eden7ba23">
+Before the domain edenjohnson.cyou/edenlink.cyou expires, you can still concatc him with email:me@edenjohnson.cyou or email:me@edenlink.cyou ( dn42 question only.)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eden7ba23&theme=github">
-  
-# In Life 
-  
-  16 y.o. A Junior High School Student, now in Grade 3.
-  
-  Live in  Inner Mongolia , P.R.C Mainland.
-  
-  ## Hobbies
-  
-  Radio,Programming,Rhythm Games and etc.
-  
-  ## Devices
-  
-  Phones: Xiaomi 10i
-  
-  PCs: Xiaomi TM1703, Hewlett-Packard HP Z620 Workstation.
-  
-  Radios: RTL-SDR(with Q-Branch Sampling) and Mini-Whip.
-  
-# ~~Flags~~ (nope) Goals
-  
-  - have an articles that postd on public magazines (like TEENS)
-  - code contribution for Open-Source community
-  - ~~A finished project (rip archlinux-install-script)~~ https://github.com/Eden7Ba23/DN42-Go
-  
-# Find Me at
-  - Cytoid: https://cytoid.io/profile/edenjohnson2006
-  - Github: https://github.com/Eden7Ba23
-  - Telegram: https://t.me/eden_7ba23
-  - Website: https://edenjohnson.cyou
-  - dn42: https://explorer.burble.com/?#/aut-num/AS4242423025 / https://edenlink.cyou
-  
+Thanks for supporting, for two years.
+
+R.I.P. 2020.01-2022.06.27
+
 <!--So how? nothing. [with the song never sing again.]-->
 <!--Yeah i mean i am just a garbage.-->
